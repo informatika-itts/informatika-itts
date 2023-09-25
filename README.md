@@ -11,5 +11,6 @@ Panduan kontribusi dapat dilihat di [CONTRIBUTING.md](/CONTRIBUTING.md).
 - Ivan Sholana (maintainer)
 - Kahil Akbar Bayu Adityo
 - Muhammad Harits Sofwan Adhani
-- Abimanyu
+- Evan Hadi Sukuriyanto
+- Enggar Abimanyu Purnomo Rafi
 - Moch. Andi Divangga Pratama
