@@ -12,4 +12,4 @@ Panduan kontribusi dapat dilihat di [CONTRIBUTING.md](/CONTRIBUTING.md).
 - Kahil Akbar Bayu Adityo
 - Muhammad Harits Sofwan Adhani
 - Abimanyu
-- Moch. Andi Divangga Putra
+- Moch. Andi Divangga Pratama
