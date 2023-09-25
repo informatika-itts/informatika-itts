@@ -24,7 +24,7 @@ Sebelum Anda memulai pekerjaan, buatlah branch baru dengan nama yang deskriptif,
 git checkout -b {nama-branch}
 ```
 
-Nama branch misalnya: `fix typo di modul x` atau `contrib submateri x di modul y`
+Nama branch misalnya: `fix-typo-di-modul-x` atau `contrib-submateri-x-di-modul-y`
 
 ## Langkah 4: Modifikasi Modul
 
