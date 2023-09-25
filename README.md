@@ -9,8 +9,9 @@ Panduan kontribusi dapat dilihat di [CONTRIBUTING.md](/CONTRIBUTING.md).
 # Contributor
 - Ahmad Mu'min Faisal (maintainer)
 - Ivan Sholana (maintainer)
+- Moch. Andi Divangga Pratama (maintainer)
+- Muhammad Khuluqil Karim (maintainer)
 - Kahil Akbar Bayu Adityo
 - Muhammad Harits Sofwan Adhani
 - Evan Hadi Sukuriyanto
 - Enggar Abimanyu Purnomo Rafi
-- Moch. Andi Divangga Pratama
