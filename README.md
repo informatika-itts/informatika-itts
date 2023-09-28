@@ -15,3 +15,4 @@ Panduan kontribusi dapat dilihat di [CONTRIBUTING.md](/CONTRIBUTING.md).
 - Muhammad Harits Sofwan Adhani
 - Evan Hadi Sukuriyanto
 - Enggar Abimanyu Purnomo Rafi
+- Fakhri Alauddin
