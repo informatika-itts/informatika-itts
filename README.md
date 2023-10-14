@@ -16,3 +16,4 @@ Panduan kontribusi dapat dilihat di [CONTRIBUTING.md](/CONTRIBUTING.md).
 - Evan Hadi Sukuriyanto
 - Enggar Abimanyu Purnomo Rafi
 - Fakhri Alauddin
+- Gede Satyamahinsa Prastita Uttama
